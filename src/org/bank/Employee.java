@@ -74,6 +74,8 @@ public class Employee {
 		Set<Entry<String, Integer>>  c= m3.entrySet();
 		for(Entry<String, Integer> b:c) {
 		System.out.println(c);
+		System.out.println("work as assigned");
+		System.out.println("done by hris");
 	}
 	
 }}
